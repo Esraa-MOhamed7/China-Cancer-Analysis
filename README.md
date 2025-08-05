@@ -62,7 +62,7 @@ Aspiring Data Sciencist
 
 
 ## 📸 Sample Visuals
-![Chart 1](link_to_chart_1)
+![Chart 1](https://github.com/Esraa-MOhamed7/China-Cancer-Analysis/blob/main/tumor%20size%20by%20cancer%20stage.png)
 ![Chart 2](link_to_chart_2)
 ![Chart 3](link_to_chart_3)
 
