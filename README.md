@@ -58,7 +58,7 @@ A data analysis project aiming to uncover patterns between tumor types, stages, 
 
 **Esraa Mohamed**  
 Aspiring Data Sciencist
-🔗 [LinkedIn](https://www.linkedin.com/in/esraa-mohamed7)
+🔗 [LinkedIn](https://www.linkedin.com/in/esraa-mohamed-481545357?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPtknU%2BTpTGWEGuZ046jLMA%3D%3D)
 
 
 ## 📸 Sample Visuals
