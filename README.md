@@ -64,7 +64,7 @@ Aspiring Data Sciencist
 ## 📸 Sample Visuals
 ![Chart 1](https://github.com/Esraa-MOhamed7/China-Cancer-Analysis/blob/main/tumor%20size%20by%20cancer%20stage.png)
 ![Chart 2](https://github.com/Esraa-MOhamed7/China-Cancer-Analysis/blob/main/wthat%20is%20the%20best%20treatment%20method.png)
-![Chart 3](link_to_chart_3)
+![Chart 3](https://github.com/Esraa-MOhamed7/China-Cancer-Analysis/blob/main/survival%20status%20by%20cancer%20stage.png)
 
 
 
