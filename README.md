@@ -51,10 +51,6 @@ A data analysis project aiming to uncover patterns between tumor types, stages, 
 ![Chart 2](https://github.com/Esraa-MOhamed7/China-Cancer-Analysis/blob/main/wthat%20is%20the%20best%20treatment%20method.png)
 ![Chart 3](https://github.com/Esraa-MOhamed7/China-Cancer-Analysis/blob/main/survival%20status%20by%20cancer%20stage.png)
 
-## 👩‍💻 About Me
-
-**Esraa Mohamed**  
-🔗 [LinkedIn](https://www.linkedin.com/in/esraa-mohamed-481545357?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPtknU%2BTpTGWEGuZ046jLMA%3D%3D)
 
 
 
